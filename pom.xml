@@ -109,7 +109,7 @@
         <sonar.tests>${project.basedir}/src/test/</sonar.tests>
 
         <!-- jhipster-needle-maven-property -->
-        <dokka-maven-plugin.version>1.4.10.2</dokka-maven-plugin.version>
+        <dokka-maven-plugin.version>1.7.0</dokka-maven-plugin.version>
     </properties>
 
     <developers>
